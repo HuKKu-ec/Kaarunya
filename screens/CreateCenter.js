@@ -84,13 +84,13 @@ const CreateCenter = ({ navigation }) => {
         value={password}
         onChangeText={(text) => setPassword(text)}
       />
-      <TextInput
+      {/* <TextInput
         style={styles.addInput}
         placeholder="Confirm Password"
         secureTextEntry={true}
         value={ConPassword}
         onChangeText={(text) => setConPassword(text)}
-      />
+      /> */}
 
       <View style={styles.buttonField}>
         <TouchableOpacity
