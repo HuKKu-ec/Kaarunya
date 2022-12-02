@@ -68,6 +68,26 @@ In this module, the volunteer will be able to add patient’s economical, social
 and educational status of patient and related members in family. Volunteer is
 restricted to view only economical and family details
 
+
+## Log in, Create Center:
+
+![signup](https://user-images.githubusercontent.com/70440965/205306707-fc144d4e-c2d7-4113-b198-a5774ed14e25.jpg)
+
+## User view and User Profile:
+
+![useProfile](https://user-images.githubusercontent.com/70440965/205306889-f6e93355-5191-44f6-a940-a091805cf6bb.jpg)
+
+## Doctor Module:
+![DoctorSection](https://user-images.githubusercontent.com/70440965/205307303-2ebd48ce-611a-4632-ad46-efb032fd0214.jpg)
+## Nurse Module:
+![nurseSection](https://user-images.githubusercontent.com/70440965/205307339-1a119c4e-be59-4aeb-b541-b819bcec02e8.jpg)
+
+![nurseSection2](https://user-images.githubusercontent.com/70440965/205307361-cd98eec8-eed5-4e2e-983b-f88489663e5f.jpg)
+
+## Volunteer Module:
+![VolSection](https://user-images.githubusercontent.com/70440965/205307386-8380a018-6005-4ea5-aaa7-341e535c3394.jpg)
+
+
 # SYSTEM ANALYSIS
 
 ## EXISTING SYSTEM
